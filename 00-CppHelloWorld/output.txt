@@ -1,0 +1,2662 @@
+Script started on Thu Apr 15 00:54:54 2021
+[1m[7m%[27m[1m[0m                                                                                                                                               
+ 
+]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED/00-CppHelloWorld]1;..CppHelloWorld
+[0m[27m[24m[J[39m[0m[49m[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED/00-CppHelloWorld [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hScript started on Thu Apr 15 01:01:49 2021
+script -a output.txt[?1l>[?2004l
+
+]2;script -a output.txt]1;scriptScript started, output file is output.txt
+[1m[7m%[27m[1m[0m                                                                                                                                               
+ 
+]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED/00-CppHelloWorld]1;..CppHelloWorld
+[0m[27m[24m[J[39m[0m[49m[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED/00-CppHelloWorld [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004h[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED/00-CppHelloWorld]1;..CppHelloWorld[0m[27m[24m[J[39m[0m[49m[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED/00-CppHelloWorld [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hggit push[?1l>[?2004l
+]2;git push]1;gitfatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED/00-CppHelloWorld]1;..CppHelloWorld[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED/00-CppHelloWorld [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hggit push[?1l>[?2004l
+]2;git push]1;gitfatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED/00-CppHelloWorld]1;..CppHelloWorld[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED/00-CppHelloWorld [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004h[7mgit remote add origin https://github.com/clarkelamothe/AED.git[27m
+[7mgit branch -M main[27m[K
+[7mgit push -u origin main[27m[K[A[A[55C[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27mc[27ml[27ma[27mr[27mk[27me[27ml[27ma[27mm[27mo[27mt[27mh[27me[27m/[27mA[27mE[27mD[27m.[27mg[27mi[27mt[1B[27mg[27mi[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27m-[27mM[27m [27mm[27ma[27mi[27mn[1B[27mg[27mi[27mt[27m [27mp[27mu[27ms[27mh[27m [27m-[27mu[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mm[27ma[27mi[27mn[?1l>[?2004l
+]2;git remote add origin https://github.com/clarkelamothe/AED.git; git branch -M]1;gitfatal: remote origin already exists.
+error: refname refs/heads/master not found
+fatal: Branch rename failed
+error: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/clarkelamothe/AED.git'
+[m[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED/00-CppHelloWorld]1;..CppHelloWorld[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED/00-CppHelloWorld [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hgit remote add origin https://github.com/clarkelamothe/AED.git
+git branch -M main[K
+git push -u origin main[K[A[A[117C    [1B[118D[7mgit remote add origin https://github.com/clarkelamothe/AED.git[27m
+[7mgit branch -M main[27m[K
+[7mgit push -u origin main[27m[K[A[A[55C[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27mc[27ml[27ma[27mr[27mk[27me[27ml[27ma[27mm[27mo[27mt[27mh[27me[27m/[27mA[27mE[27mD[27m.[27mg[27mi[27mt[1B[27mg[27mi[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27m-[27mM[27m [27mm[27ma[27mi[27mn[1B[27mg[27mi[27mt[27m [27mp[27mu[27ms[27mh[27m [27m-[27mu[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mm[27ma[27mi[27mn[?1l>[?2004l
+]2;git remote add origin https://github.com/clarkelamothe/AED.git; git branch -M]1;gitfatal: remote origin already exists.
+error: refname refs/heads/master not found
+fatal: Branch rename failed
+error: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/clarkelamothe/AED.git'
+[m[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED/00-CppHelloWorld]1;..CppHelloWorld[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED/00-CppHelloWorld [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hgit remote add origin https://github.com/clarkelamothe/AED.git
+git branch -M main[K
+git push -u origin main[K[A[A[117C    [1B[118D[1B[5C   [1B[5C                 g [K[K[A[18C             g [K[K[A[136C               [43D                                           [43Dgit push[8D        [8D              g [K[K[A[18C             g [K[K[A[136C               [43D                                           [43Dgit push[8D        [8Dgit push[8Dscript -a output.txt[20Dgit push            [12D[8D        [8D[?1l>[?2004l[1B[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED/00-CppHelloWorld]1;..CppHelloWorld[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED/00-CppHelloWorld [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004h[7mgit remote add origin https://github.com/clarkelamothe/AED.git[27m[62D[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27mc[27ml[27ma[27mr[27mk[27me[27ml[27ma[27mm[27mo[27mt[27mh[27me[27m/[27mA[27mE[27mD[27m.[27mg[27mi[27mt[?1l>[?2004l
+]2;git remote add origin https://github.com/clarkelamothe/AED.git]1;gitfatal: remote origin already exists.
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED/00-CppHelloWorld]1;..CppHelloWorld[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED/00-CppHelloWorld [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hgit push[8Dscript -a output.txt[20Dgit push            [12D[8D        [8D[?1l>[?2004l[1B[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED/00-CppHelloWorld]1;..CppHelloWorld[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED/00-CppHelloWorld [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004h[7mgit remote add origin https://github.com/clarkelamothe/AED.git[27m[62D[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27mc[27ml[27ma[27mr[27mk[27me[27ml[27ma[27mm[27mo[27mt[27mh[27me[27m/[27mA[27mE[27mD[27m.[27mg[27mi[27mt[?1l>[?2004l
+]2;git remote add origin https://github.com/clarkelamothe/AED.git]1;gitfatal: remote origin already exists.
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED/00-CppHelloWorld]1;..CppHelloWorld[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED/00-CppHelloWorld [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004h[7mgit branch -M main[27m[18D[27mg[27mi[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27m-[27mM[27m [27mm[27ma[27mi[27mn[?1l>[?2004l
+]2;git branch -M main]1;giterror: refname refs/heads/master not found
+fatal: Branch rename failed
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED/00-CppHelloWorld]1;..CppHelloWorld[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED/00-CppHelloWorld [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hggit branch[?1l>[?2004l
+]2;git branch]1;git[?1049h[?1h=[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[7mgit branch -M main[27m[18D[27mg[27mi[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27m-[27mM[27m [27mm[27ma[27mi[27mn[?1l>[?2004l
+]2;git branch -M main]1;giterror: refname refs/heads/master not found
+fatal: Branch rename failed
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED/00-CppHelloWorld]1;..CppHelloWorld[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED/00-CppHelloWorld [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hggit branch[?1l>[?2004l
+]2;git branch]1;git[?1049h[?1h=[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[K^J^J...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K[?1l>[?1049l
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED/00-CppHelloWorld]1;..CppHelloWorld[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED/00-CppHelloWorld [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004h0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[K^J^J...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K[?1l>[?1049l
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED/00-CppHelloWorld]1;..CppHelloWorld[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED/00-CppHelloWorld [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004h[7mgit push -u origin main[27m[23D[27mg[27mi[27mt[27m [27mp[27mu[27ms[27mh[27m [27m-[27mu[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mm[27ma[27mi[27mn[?1l>[?2004l
+]2;git push -u origin main]1;giterror: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/clarkelamothe/AED.git'
+[m[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED/00-CppHelloWorld]1;..CppHelloWorld[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED/00-CppHelloWorld [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004h[7mgit push -u origin main[27m[23D[27mg[27mi[27mt[27m [27mp[27mu[27ms[27mh[27m [27m-[27mu[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mm[27ma[27mi[27mn[?1l>[?2004l
+]2;git push -u origin main]1;giterror: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/clarkelamothe/AED.git'
+[m[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED/00-CppHelloWorld]1;..CppHelloWorld[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED/00-CppHelloWorld [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hggit  g  ccd ..[?1l>[?2004l
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [49m[34m[39m [K[?1h=[?2004hppwd[?1l>[?2004l
+]2;pwd]1;pwd/Users/clarkelamothe/web/AED
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [49m[34m[39m [K[?1h=[?2004hggit initggit  g  ccd ..[?1l>[?2004l
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [49m[34m[39m [K[?1h=[?2004hppwd[?1l>[?2004l
+]2;pwd]1;pwd/Users/clarkelamothe/web/AED
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [49m[34m[39m [K[?1h=[?2004hggit init[?1l>[?2004l
+]2;git init]1;gitInitialized empty Git repository in /Users/clarkelamothe/web/AED/.git/
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004h[?1l>[?2004l
+]2;git init]1;gitInitialized empty Git repository in /Users/clarkelamothe/web/AED/.git/
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004h[7mgit remote add origin https://github.com/clarkelamothe/AED.git[27m[62D[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27mc[27ml[27ma[27mr[27mk[27me[27ml[27ma[27mm[27mo[27mt[27mh[27me[27m/[27mA[27mE[27mD[27m.[27mg[27mi[27mt[?1l>[?2004l
+]2;git remote add origin https://github.com/clarkelamothe/AED.git]1;git[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004h[7mgit branch -M main[27m[18D[27mg[27mi[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27m-[27mM[27m [27mm[27ma[27mi[27mn[?1l>[?2004l
+]2;git branch -M main]1;giterror: refname refs/heads/master not found
+fatal: Branch rename failed
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004h[7mgit remote add origin https://github.com/clarkelamothe/AED.git[27m[62D[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27mc[27ml[27ma[27mr[27mk[27me[27ml[27ma[27mm[27mo[27mt[27mh[27me[27m/[27mA[27mE[27mD[27m.[27mg[27mi[27mt[?1l>[?2004l
+]2;git remote add origin https://github.com/clarkelamothe/AED.git]1;git[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004h[7mgit branch -M main[27m[18D[27mg[27mi[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27m-[27mM[27m [27mm[27ma[27mi[27mn[?1l>[?2004l
+]2;git branch -M main]1;giterror: refname refs/heads/master not found
+fatal: Branch rename failed
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004h[7mgit push -u origin main[27m[23D[27mg[27mi[27mt[27m [27mp[27mu[27ms[27mh[27m [27m-[27mu[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mm[27ma[27mi[27mn[?1l>[?2004l
+]2;git push -u origin main]1;giterror: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/clarkelamothe/AED.git'
+[m[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hggit o[7mgit push -u origin main[27m[23D[27mg[27mi[27mt[27m [27mp[27mu[27ms[27mh[27m [27m-[27mu[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mm[27ma[27mi[27mn[?1l>[?2004l
+]2;git push -u origin main]1;giterror: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/clarkelamothe/AED.git'
+[m[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hggit o push[?1l>[?2004l
+]2;git push]1;gitfatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004h push[?1l>[?2004l
+]2;git push]1;gitfatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hggit origin main [?1l>[?2004l
+]2;git origin main]1;gitgit: 'origin' is not a git command. See 'git --help'.
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hggit origin main [?1l>[?2004l
+]2;git origin main]1;gitgit: 'origin' is not a git command. See 'git --help'.
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004h[7mgit branch -M main[27m[18D[27mg[27mi[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27m-[27mM[27m [27mm[27ma[27mi[27mn[?1l>[?2004l
+]2;git branch -M main]1;giterror: refname refs/heads/master not found
+fatal: Branch rename failed
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hgit branch -M main    [?1l>[?2004l
+]2;git branch -M]1;gitfatal: branch name required
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hgit branch -M main[?1l>[?2004l
+]2;git branch -M main]1;giterror: refname refs/heads/master not found
+fatal: Branch rename failed
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hggit push[?1l>[?2004l
+]2;git push]1;gitfatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004h[7mgit branch -M main[27m[18D[27mg[27mi[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27m-[27mM[27m [27mm[27ma[27mi[27mn[?1l>[?2004l
+]2;git branch -M main]1;giterror: refname refs/heads/master not found
+fatal: Branch rename failed
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hgit branch -M main    [?1l>[?2004l
+]2;git branch -M]1;gitfatal: branch name required
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hgit branch -M main[?1l>[?2004l
+]2;git branch -M main]1;giterror: refname refs/heads/master not found
+fatal: Branch rename failed
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hggit push[?1l>[?2004l
+]2;git push]1;gitfatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hgit push origgit push origin master[?1l>[?2004l
+]2;git push origin master]1;giterror: src refspec master does not match any
+[31merror: failed to push some refs to 'https://github.com/clarkelamothe/AED.git'
+[m[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hgit push origin master    in[?1l>[?2004l
+]2;git push origin main]1;giterror: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/clarkelamothe/AED.git'
+[m[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hin master[?1l>[?2004l
+]2;git push origin master]1;giterror: src refspec master does not match any
+[31merror: failed to push some refs to 'https://github.com/clarkelamothe/AED.git'
+[m[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hgit push origin master    in[?1l>[?2004l
+]2;git push origin main]1;giterror: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/clarkelamothe/AED.git'
+[m[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004h[7mgit remote add origin https://github.com/clarkelamothe/AED.git[27m[62D[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27mc[27ml[27ma[27mr[27mk[27me[27ml[27ma[27mm[27mo[27mt[27mh[27me[27m/[27mA[27mE[27mD[27m.[27mg[27mi[27mt[?1l>[?2004l
+]2;git remote add origin https://github.com/clarkelamothe/AED.git]1;gitfatal: not a git repository (or any of the parent directories): .git
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [49m[34m[39m [K[?1h=[?2004hggit  g  ppwd[?1l>[?2004l
+]2;pwd]1;pwd/Users/clarkelamothe/web/AED
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [49m[34m[39m [K[?1h=[?2004hggit init[?1l>[?2004l
+]2;git init]1;gitInitialized empty Git repository in /Users/clarkelamothe/web/AED/.git/
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004h[7mgit remote add origin https://github.com/clarkelamothe/AED.git[27m[62D[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27mc[27ml[27ma[27mr[27mk[27me[27ml[27ma[27mm[27mo[27mt[27mh[27me[27m/[27mA[27mE[27mD[27m.[27mg[27mi[27mt[?1l>[?2004l
+]2;git remote add origin https://github.com/clarkelamothe/AED.git]1;gitfatal: not a git repository (or any of the parent directories): .git
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [49m[34m[39m [K[?1h=[?2004hggit  g  ppwd[?1l>[?2004l
+]2;pwd]1;pwd/Users/clarkelamothe/web/AED
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [49m[34m[39m [K[?1h=[?2004hggit init[?1l>[?2004l
+]2;git init]1;gitInitialized empty Git repository in /Users/clarkelamothe/web/AED/.git/
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hggiggig  [7mgit remote add origin https://github.com/clarkelamothe/AED.git[27m[62D[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27mc[27ml[27ma[27mr[27mk[27me[27ml[27ma[27mm[27mo[27mt[27mh[27me[27m/[27mA[27mE[27mD[27m.[27mg[27mi[27mt[?1l>[?2004l
+]2;git remote add origin https://github.com/clarkelamothe/AED.git]1;git[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004h[7mgit branch -M main[27m[18D[27mg[27mi[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27m-[27mM[27m [27mm[27ma[27mi[27mn[?1l>[?2004l
+]2;git branch -M main]1;giterror: refname refs/heads/master not found
+fatal: Branch rename failed
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hgit branch -M main[18D                  [18Dgit branch -M main             g  g  [7mgit remote add origin https://github.com/clarkelamothe/AED.git[27m[62D[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27mc[27ml[27ma[27mr[27mk[27me[27ml[27ma[27mm[27mo[27mt[27mh[27me[27m/[27mA[27mE[27mD[27m.[27mg[27mi[27mt[?1l>[?2004l
+]2;git remote add origin https://github.com/clarkelamothe/AED.git]1;git[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004h[7mgit branch -M main[27m[18D[27mg[27mi[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27m-[27mM[27m [27mm[27ma[27mi[27mn[?1l>[?2004l
+]2;git branch -M main]1;giterror: refname refs/heads/master not found
+fatal: Branch rename failed
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hgit branch -M main[18D                  [18Dgit branch -M main             g  ggit status[?1l>[?2004l
+]2;git status]1;gitOn branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m00-CppHelloWorld/[m
+	[31mREADME.md[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hggit status[?1l>[?2004l
+]2;git status]1;gitOn branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m00-CppHelloWorld/[m
+	[31mREADME.md[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hggig  ggig  [7mgit branch -M mai[27m[17D[27mg[27mi[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27m-[27mM[27m [27mm[27ma[27mi[?1l>[?2004l
+]2;git branch -M mai]1;giterror: refname refs/heads/master not found
+fatal: Branch rename failed
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hgit branch -M mai[7mgit branch -M mai[27m[17D[27mg[27mi[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27m-[27mM[27m [27mm[27ma[27mi[?1l>[?2004l
+]2;git branch -M mai]1;giterror: refname refs/heads/master not found
+fatal: Branch rename failed
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hgit branch -M mai           push o           push orini  gin master[?1l>[?2004l
+]2;git push origin master]1;giterror: src refspec master does not match any
+[31merror: failed to push some refs to 'https://github.com/clarkelamothe/AED.git'
+[m[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hgit push origin master    in[?1l>[?2004l
+]2;git push origin main]1;giterror: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/clarkelamothe/AED.git'
+[m[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hrini  gin master[?1l>[?2004l
+]2;git push origin master]1;giterror: src refspec master does not match any
+[31merror: failed to push some refs to 'https://github.com/clarkelamothe/AED.git'
+[m[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hgit push origin master    in[?1l>[?2004l
+]2;git push origin main]1;giterror: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/clarkelamothe/AED.git'
+[m[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hgit push origin main[20D                    [20D[7mgit branch -M main[27m[18D[27mg[27mi[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27m-[27mM[27m [27mm[27ma[27mi[27mn[?1l>[?2004l
+]2;git branch -M main]1;giterror: refname refs/heads/master not found
+fatal: Branch rename failed
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hgit branch -M maingit push origin main[20D                    [20D[7mgit branch -M main[27m[18D[27mg[27mi[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27m-[27mM[27m [27mm[27ma[27mi[27mn[?1l>[?2004l
+]2;git branch -M main]1;giterror: refname refs/heads/master not found
+fatal: Branch rename failed
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hgit branch -M main[?1l>[?2004l
+]2;git branch -M main]1;giterror: refname refs/heads/master not found
+fatal: Branch rename failed
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hgit branch -M main  ster[?1l>[?2004l
+]2;git branch -M master]1;giterror: refname refs/heads/master not found
+fatal: Branch rename failed
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004h[?1l>[?2004l
+]2;git branch -M main]1;giterror: refname refs/heads/master not found
+fatal: Branch rename failed
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004hgit branch -M main  ster[?1l>[?2004l
+]2;git branch -M master]1;giterror: refname refs/heads/master not found
+fatal: Branch rename failed
+[1m[7m%[27m[1m[0m                                                                                                                                                ]2;clarkelamothe@Gentys-MacBook-Pro:~/web/AED]1;~/web/AED[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m clarkelamothe@Gentys-MacBook-Pro [44m[30m[30m ~/web/AED [43m[34m[30m  master [49m[33m[39m [K[?1h=[?2004h
